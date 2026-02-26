@@ -17,6 +17,18 @@ Search for movies, TV shows, and actors, then add them to your custom Trakt list
 
 ## Setup
 
+### Pre-Requisites
+1. Create a Trakt Account and create lists, typically one for Movies and one for TV Shows.
+2. Setup Sonarr to import Trakt TV Show list
+3. Setup Radarr to import Trakt Movies list
+
+### Installation
+1. Download ZIP file and place in a location accessible to Kodi
+2. Navigate to Add-Ons and Add from ZIP file
+3. Application should appear in the Programs list
+4. Launch the application to configure the integrations
+
+
 ### 1. Get Trakt API Credentials
 
 1. Go to https://trakt.tv/oauth/applications
