@@ -1,7 +1,7 @@
 # Trakt Search & Watchlist for Kodi
 
 Search for movies, TV shows, and actors, then add them to your custom Trakt lists.
-
+Orignialy built for use on a Vero 5 running Kodi 21.3
 ---
 
 ## Features
